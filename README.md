@@ -2,7 +2,7 @@
 
 [![travis](https://travis-ci.org/intelekshual/go-simpleflake.svg)](https://travis-ci.org/intelekshual/go-simpleflake)
 
-64-bit, roughly-ordered, unique ID generator in Go. Inspired by [this article](http://engineering.custommade.com/simpleflake-distributed-id-generation-for-the-lazy/) and the [Python library]((https://github.com/SawdustSoftware/simpleflake)) that spawned it.
+64-bit, roughly-ordered, unique ID generator in Go. Inspired by [this article](http://engineering.custommade.com/simpleflake-distributed-id-generation-for-the-lazy/) and the [Python library](https://github.com/SawdustSoftware/simpleflake) that spawned it.
 
 ## Installation
 
