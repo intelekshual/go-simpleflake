@@ -3,7 +3,6 @@ package simpleflake
 import (
 	"github.com/stretchr/testify/assert"
 	"testing"
-	"time"
 )
 
 func TestNew(t *testing.T) {
